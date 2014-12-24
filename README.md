@@ -6,3 +6,5 @@ nanopore
   /gsc/btl/linuxbrew/bin/blastn  
 - BLASR:  
   /gsc/btl/linuxbrew/bin/blasr
+- LAST:  
+  /gsc/btl/linuxbrew/bin/lastal
