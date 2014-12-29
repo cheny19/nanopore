@@ -1,6 +1,6 @@
 nanopore
 ========
-*For long error prone reads, use BLAST or BLASR or LAST for alignment.*
+>*For long error prone reads, use BLAST or BLASR or LAST for alignment.*
   
 - BALST:  
   /gsc/btl/linuxbrew/bin/blastn  
